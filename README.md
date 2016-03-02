@@ -1,2 +1,2 @@
-# platt_scaling_in_R
+# README
 Implementation of Platt's scaling in R
